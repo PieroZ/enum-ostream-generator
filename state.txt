@@ -1,0 +1,5 @@
+IDLE,
+                 ATTACKING,
+PARALYZED,
+JUMPING,
+DYING
